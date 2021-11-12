@@ -1,0 +1,47 @@
+body{
+    background:linear-gradient(to right,darkgrey,grey);
+}
+h1{
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 80px;
+    padding-right: 120px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Merienda', cursive;
+    padding-top:40px;
+    padding-right: 160px;
+}
+s.float-right{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 90px;
+}
+.reset {
+ 
+    margin-top: 30px;
+    margin-right: 120px;
+    background-color: #131415;
+}
+.btn {
+    color: #ffffff;
+    background-color: #131415;
+    font-size: 12px;
+    border: 1px solid #2d63c8;
+    border-radius: 61px;
+    padding: 10px 50px;
+    cursor: pointer
+    
+}
+.btn:hover {
+    color: #2d63c8;
+    background-color: #ffffff;
+}
+#keyboard{
+    padding-right: 140px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.fa{
+    font-size: 20px;
+    padding-right: 5px;
+}
